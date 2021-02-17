@@ -1,4 +1,4 @@
-,nome,genero,editora,vendas,X360,Wii,PSP,PS3,PS4,3DS,PSV,XOne,WiiU,avaliacao_criticos_novo,numero_criticos_novo,avaliacao_usuarios_novo,numero_usuarios_novo,fabricante
+,nome,genero,editora,vendasTotais,X360,Wii,PSP,PS3,PS4,3DS,PSV,XOne,WiiU,avaliacao_criticos_media,numero_criticos_total,avaliacao_usuarios_media,numero_usuarios_total,fabricante
 0,2010 FIFA World Cup South Africa,2,Electronic Arts,2.8,1,1,1,1,0,0,0,0,0,79.89115646258503,147.0,7.913084112149531,107.0,Electronic Arts
 1,50 Cent: Blood on the Sand,3,THQ,0.37,1,0,0,1,0,0,0,0,0,71.4065934065934,91.0,6.777777777777778,99.0,Swordfish Studios
 2,ATV Offroad Fury Pro,9,Sony Computer Entertainment,0.43,0,0,1,0,0,0,0,0,0,76.0,32.0,,0.0,Climax Group
